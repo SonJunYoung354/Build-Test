@@ -7,6 +7,10 @@ public class osp1 {
 	public String index() {
 		return "Open Source Program..";
 		//commit.... 연습
+		}
+	@GetMapping("test")
+	public String test() {
+		return "Open....";
 		
 	}
 }
