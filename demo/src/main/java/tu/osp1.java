@@ -12,5 +12,6 @@ public class osp1 {
 	public String a() {
 		return "Open....";
 		//commit...
+		//commit..
 	}
 }
