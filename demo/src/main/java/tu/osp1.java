@@ -8,9 +8,9 @@ public class osp1 {
 		return "Open Source Program..";
 		//commit.... 연습
 		}
-	@GetMapping("test")
-	public String test() {
+	@GetMapping("a")
+	public String a() {
 		return "Open....";
-		
+		//commit...
 	}
 }
